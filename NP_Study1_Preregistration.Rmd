@@ -251,7 +251,7 @@ We will use coefficient estimates from the multivariate regression model to dete
 
 ### Data Exclusion
 
-We will exclude any trials with caregiver interference (caregiver points to the screen or tells the child how to respond), experimenter error (e.g. large deviations from experiment script), technical problems (e.g. video lag, poor internet connection, etc) that prevent the completion or accurate rollout of the experiment, severe lapses in attention (e.g. looking away/being distracted for more than 5 seconds during one of the videos). 
+We will exclude any trials with caregiver interference (e.g. caregiver tells the child how to respond), experimenter error (e.g. large deviations from experiment script) that prevent the completion or accuracy of the experiment, and severe lapses in attention (e.g. looking away/being distracted for more than 50% of the experimenter's explanation of the task). Participants will be asked to recall the puppet's auditory access after the experimenter's first explanation. If participants provide the incorrect response, the experimenter will remind participants of the correct response. Participants who fail this second comprehension check will be excluded.
 
 ### Exploratory Analysis
 
